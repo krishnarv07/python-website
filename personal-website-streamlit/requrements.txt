@@ -1,4 +1,0 @@
-streamlit
-requests
-streamlit_lottie
-PIL
