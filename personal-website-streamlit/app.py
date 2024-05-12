@@ -31,7 +31,7 @@ img_lottie_animation = Image.open("images/Screenshot 2024-04-28 120214.png")
 # ---- HEADER SECTION ----
 with st.container():
     st.subheader("Hi, I am krishna :wave:")
-    st.title("An ML Engineer From Chennai")
+    st.title("An IT Engineer From Chennai")
     st.write(
         "Passionate Junior ML Engineer at SRM Valliammai Engineering College | Versatile developer excelling in hardware, software, and web solutions."
     )
